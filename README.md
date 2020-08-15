@@ -14,7 +14,7 @@ We have taxi rank locations, and want to define key clusters of these taxis wher
 3. Clustering Strength / Performance Metric
 4. K-Means Clustering
 
-<img src="images/kmeans.JPG" alt="drawing" width="800" height="600"/>
+<img src="images/kmeans.JPG" alt="drawing" width="800" height="500"/>
 
 ![output](https://github.com/sudip-padhye/Clustering-Geolocation-Data-Intelligently-using-HDBSCAN/blob/master/kmeans_70.html "k-means output")
 
@@ -22,15 +22,14 @@ We have taxi rank locations, and want to define key clusters of these taxis wher
 6. HDBSCAN
 7. Addressing Outliers
 
-<img src="images/hybrid.JPG" alt="drawing" width="800" height="600"/>
+<img src="images/hybrid.JPG" alt="drawing" width="800" height="500"/>
 
 ![output](https://github.com/sudip-padhye/Clustering-Geolocation-Data-Intelligently-using-HDBSCAN/blob/master/hybrid.html "hybrid output")
 
 ## Further Reading
 
 For some additional reading, feel free to check out 
-[K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), 
-[DBSCAN] (https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), and 
+[K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [DBSCAN] (https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), and 
 [HDBSCAN] (https://hdbscan.readthedocs.io/en/latest/) clustering respectively.
 
 It may be of use to also check out [other forms of clustering] (https://scikit-learn.org/stable/modules/clustering.html) that are commonly used and available in the scikit-learn library. HDBSCAN documentation also includes [a good methodology] (https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html) for choosing your clustering algorithm based on your dataset and other limiting factors.
