@@ -28,6 +28,9 @@ We have taxi rank locations, and want to define key clusters of these taxis wher
 
 ## Further Reading
 
-For some additional reading, feel free to check out [K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), [DBSCAN] (https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), and [HDBSCAN] (https://hdbscan.readthedocs.io/en/latest/) clustering respectively.
+For some additional reading, feel free to check out 
+[K-Means](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html), 
+[DBSCAN] (https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), and 
+[HDBSCAN] (https://hdbscan.readthedocs.io/en/latest/) clustering respectively.
 
 It may be of use to also check out [other forms of clustering] (https://scikit-learn.org/stable/modules/clustering.html) that are commonly used and available in the scikit-learn library. HDBSCAN documentation also includes [a good methodology] (https://hdbscan.readthedocs.io/en/latest/comparing_clustering_algorithms.html) for choosing your clustering algorithm based on your dataset and other limiting factors.
